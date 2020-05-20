@@ -1,0 +1,35 @@
+
+#all
+{
+    background-color: darkslateblue;
+}
+
+#person
+{
+    background-color: #fff;
+    width: 60%;
+    height: 360px;
+    margin: 50px auto;
+    padding: 10px;
+
+}
+#person img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#person ul li
+{
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+
+
+
+
+
+
